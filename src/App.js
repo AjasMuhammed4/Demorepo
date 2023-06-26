@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          The is example for dockerize conatiner
+          Learn React
         </a>
       </header>
     </div>
