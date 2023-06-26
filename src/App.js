@@ -4,8 +4,7 @@ import './App.css';
 function App() {
   return (
     <div>
-    ffffff
-          This is an exampler dgf hyy of docker image
+    This is a sample test
       </div>
   )
 }
