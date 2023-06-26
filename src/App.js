@@ -5,7 +5,7 @@ function App() {
   return (
     <div>
     ffffff
-          This is an examplerrrryyyyhhhhhhhr dgf hyy of docker image
+          This is an exampler dgf hyy of docker image
       </div>
   )
 }
